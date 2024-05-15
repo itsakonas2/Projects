@@ -1,0 +1,2 @@
+- The zip contains the Geographic Identification Application
+- The ItemsTable has the sql for the creation of the table in Sql Server
